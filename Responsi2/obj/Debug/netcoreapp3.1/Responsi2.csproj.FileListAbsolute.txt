@@ -1,0 +1,13 @@
+C:\Users\ASUS\Documents\Yonas\TUGAS\Responsi\Responsi2\Responsi2\obj\Debug\netcoreapp3.1\Responsi2.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Yonas\TUGAS\Responsi\Responsi2\Responsi2\obj\Debug\netcoreapp3.1\Responsi2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Yonas\TUGAS\Responsi\Responsi2\Responsi2\obj\Debug\netcoreapp3.1\Responsi2.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Yonas\TUGAS\Responsi\Responsi2\Responsi2\obj\Debug\netcoreapp3.1\Responsi2.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Yonas\TUGAS\Responsi\Responsi2\Responsi2\bin\Debug\netcoreapp3.1\Responsi2.exe
+C:\Users\ASUS\Documents\Yonas\TUGAS\Responsi\Responsi2\Responsi2\bin\Debug\netcoreapp3.1\Responsi2.deps.json
+C:\Users\ASUS\Documents\Yonas\TUGAS\Responsi\Responsi2\Responsi2\bin\Debug\netcoreapp3.1\Responsi2.runtimeconfig.json
+C:\Users\ASUS\Documents\Yonas\TUGAS\Responsi\Responsi2\Responsi2\bin\Debug\netcoreapp3.1\Responsi2.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\Yonas\TUGAS\Responsi\Responsi2\Responsi2\bin\Debug\netcoreapp3.1\Responsi2.dll
+C:\Users\ASUS\Documents\Yonas\TUGAS\Responsi\Responsi2\Responsi2\bin\Debug\netcoreapp3.1\Responsi2.pdb
+C:\Users\ASUS\Documents\Yonas\TUGAS\Responsi\Responsi2\Responsi2\obj\Debug\netcoreapp3.1\Responsi2.dll
+C:\Users\ASUS\Documents\Yonas\TUGAS\Responsi\Responsi2\Responsi2\obj\Debug\netcoreapp3.1\Responsi2.pdb
+C:\Users\ASUS\Documents\Yonas\TUGAS\Responsi\Responsi2\Responsi2\obj\Debug\netcoreapp3.1\Responsi2.genruntimeconfig.cache
